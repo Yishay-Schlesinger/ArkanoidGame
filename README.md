@@ -1,2 +1,3 @@
 # ArkanoidGame
-Arkanoid Game
+
+Focus on OOP and Design Patterns Concepts.
